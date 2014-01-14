@@ -1,0 +1,14 @@
+{
+    "name": "twodudes/jquery-cartoon",
+    "description": "Cartoons with jquery. Series of animations for different objects.",
+    "keywords": ["jquery", "animation", "cartoon", "browser"],
+    "type": "component",
+    "homepage": "https://github.com/whyte624/jquery-cartoon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrei Sozonov",
+            "email": "whyte624@gmail.com"
+        }
+    ]
+}
