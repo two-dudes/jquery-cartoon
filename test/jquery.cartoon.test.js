@@ -51,5 +51,8 @@ TestCase("jquery.cartoon.test", {
     "test playing actors": function() {
         var $el = $('<div></div>').cartoon('_addActor', '<div/>', 0, this.scenario.actors.invisible);
         assertEquals('10%', $el.css('left'));
+    },
+    "test action": function() {
+        var $el = $('<div></div>').cartoon({ scenario: this.scenario });
     }
 });
