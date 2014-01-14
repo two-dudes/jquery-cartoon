@@ -1,0 +1,5 @@
+load:
+  - vendors/jquery.js
+  - src/jquery.cartoon.js
+test:
+  - test/jquery.cartoon.test.js

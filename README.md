@@ -47,7 +47,7 @@ var scenario = {
             css: { position: 'absolute', display: 'block', textAlign: 'center', width: '100%', fontSize: '1.3em', opacity: '1' },
             actions: [
                 { when: 0, what: { content: 'Example of usage' } },
-                { when: 3000, what: { content: 'jquery.cartoon' } },
+                { when: 3000, what: { content: 'jquery.cartoon' } }
             ]
         }
     }
@@ -72,4 +72,4 @@ For light-weighted actors use UTF characters.
 
 ## Authors
 
-[Andrey Sozonov](https://github.com/whyte624)
+[Andrei Sozonov](https://github.com/whyte624)
